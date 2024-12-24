@@ -1,9 +1,4 @@
-SilentHack Private Bot Code
-Full open code of this bot
-
-
-
-author - @silentmodding (telegram) 
+il2cpp game cracker or native game cracker (noob) 
  
  
  
